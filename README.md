@@ -1,5 +1,5 @@
 
- ### Free Code Camp - Advanced Algorithm Scripting
+ ### Advanced Algorithm Scripting
 
 1. Validate US Telephone Numbers 
 
