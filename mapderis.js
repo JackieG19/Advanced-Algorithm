@@ -1,3 +1,8 @@
+// T = 2 pi(sqrt(a3/GM))
+// a = (earthradius + avgAlt) * 3
+// var sqroot = Math.sqrt(a/GM)
+// var t = (2 * Math.PI) * sqroot
+
 function orbitalPeriod(arr) {
   var GM = 398600.4418;
   var earthRadius = 6367.4447;
